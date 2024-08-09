@@ -1,0 +1,33 @@
+body{
+    padding: 0;
+    margin: 0;
+
+}
+nav{
+    background-color: rgb(201, 120, 15);
+    padding: 20px;
+    margin: 20px;
+}
+nav ul{
+    list-style-type: none;
+    background-color: rgb(201, 120, 15);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+nav a{
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    font-size: 1.5em ;
+    fon
+}
+nav li:hover{
+    background-color: #221a06b9;
+}
+nav li{
+    float: left;
+
+}
